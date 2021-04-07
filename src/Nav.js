@@ -49,4 +49,4 @@ const Nav = ({ current }) => {
     );
 }
 
-export default Nav
+export default Nav;
